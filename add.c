@@ -10,6 +10,8 @@ int main() {
     scanf("%d", &num2);
     
     sum = num1 + num2; //for sum
+    int num3 =3;
+    printf(num3);
     
     printf("The sum of %d and %d is %d.", num1, num2, sum);
     
